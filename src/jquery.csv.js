@@ -1,6 +1,6 @@
 /**
  * jQuery-csv (jQuery Plugin)
- * version: 0.71 (2012-11-19)
+ * version: 0.71.1 (2012-11-19)
  *
  * This document is licensed as free software under the terms of the
  * MIT License: http://www.opensource.org/licenses/mit-license.php
